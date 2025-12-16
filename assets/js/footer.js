@@ -8,22 +8,25 @@ function renderFooter() {
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">                        
                         <a href="index.html" class="logo"><img src="assets/img/logo/logo-white.png" alt=""></a>                                                                                                
-                        <p>We are the top architecture firm <br> to deliver best works. Innovative services <br> highly customized.
+                        <p>Marvelith Surfaces is a premium tiles brand delivering quality,
+                            innovation, and elegant surface solutions for modern spaces.
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <h5>Office</h5>
-                        <p>Corporate Office- <br>
-                            175 24th Street, OT- 35
-                            London, <br> UK 265
+                        <h5>Address</h5>
+                        <p>
+                            OPP. SIPOK CERA, Bela <br>
+                            Rangpar Road, ONCAT, Bela, <br>
+                            Ta. Dis. Morbi – 363642, <br>
+                            Gujarat, India
                         </p>
                         <div class="company-email">
-                            <p>Have a project in mind?</p>
-                            <a href="#">info@Marvelith.com</a>
+                            <p>Email</p>
+                            <a href="mailto:info@marvelithsurfaces.com">info@marvelithsurfaces.com</a>
                         </div>
                         <div class="phone-number">
-                            <p>Mon-Fri, 08.00 AM-09.00 PM</p>
-                            <a href="#">+18-4675826</a>
+                             <p>Phone</p>
+                            <a href="tel:7575090963">+91 75750 90963</a>
                         </div>
 
                     </div>
@@ -31,11 +34,11 @@ function renderFooter() {
                         <h5>Links</h5>
                         <ul>
                             <li>
-                                <a href="about.html">Company</a>
-                                <a href="#">Careers</a>
-                                <a href="#">Press Media</a>
-                                <a href="services.html">Services</a>
-                                <a href="project-standard.html">Projects</a>                                                    
+                                <a href="index.html">Home</a>
+                                <a href="about.html">About</a>
+                                <a href="export.html">Export</a>
+                                <a href="catalogue.html">Catalogue</a>
+                                <a href="contact.html">Contact Us</a>                                                    
                             </li>
                         </ul>
                     </div>
@@ -44,9 +47,8 @@ function renderFooter() {
                         <ul>
                             <li>
                                 <div class="social-area">
-                                    <a href="#">Facebook</a>
-                                    <a href="#">Instagram</a>                                    
-                                    <a href="#">Medium</a>
+                                    <a href="https://www.facebook.com/share/17aEz8Feqo/">Facebook</a>
+                                    <a href="https://www.instagram.com/marvelithsurfaces?igsh=MXA0bHNteGE0MDQxdQ==">Instagram</a>
                                 </div>
                             </li>
                         </ul>
