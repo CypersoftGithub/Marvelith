@@ -27,9 +27,6 @@ function renderHeader() {
                 <li><a href="products-600x600.html">600x600</a></li>
                 <li><a href="products-600x1200.html">600x1200</a></li>
                 <li><a href="products-800x1600.html">800x1600</a></li>
-                    <li><a href="products-300x300.html">300x300</a></li>
-                    <li><a href="products-1000x1000.html">1000x1000</a></li>
-                    <li><a href="products-1200x1200.html">1200x1200</a></li>
                 </ul>
             </li>
 

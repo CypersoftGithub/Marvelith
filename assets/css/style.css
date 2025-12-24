@@ -5402,6 +5402,57 @@ p.counter-number span.operator {
   background-image: url(../img/breadcrumb/Tiles-calculate.png);
 }
 
+.breadcrumb-bg.product-300x300-bg {
+  background-image: url(../img/breadcrumb/breadcrumb-300x300.png);
+}
+
+.breadcrumb-bg.product-600x600-bg {
+  background-image: url(../img/breadcrumb/600x600_1.png);
+}
+
+.breadcrumb-bg.product-600x1200-bg {
+  background-image: url(../img/breadcrumb/600x1200_1.png);
+}
+
+.breadcrumb-bg.product-800x1600-bg {
+  background-image: url(../img/breadcrumb/800x1600_1.png);
+}
+
+.breadcrumb-bg.product-800x2400-bg {
+  background-image: url(../img/breadcrumb/800x2400_1.png);
+}
+
+.breadcrumb-bg.product-800x3000-bg {
+  background-image: url(../img/breadcrumb/800x3000_1.png);
+}
+
+.breadcrumb-bg.product-800x3200-bg {
+  background-image: url(../img/breadcrumb/800x3200_1.png);
+}
+
+.breadcrumb-bg.product-1000x1000-bg {
+  background-image: url(../img/breadcrumb/1000x1000_1.png);
+}
+
+.breadcrumb-bg.product-1200x1200-bg {
+  background-image: url(../img/breadcrumb/1200x1200_1.png);
+}
+
+.breadcrumb-bg.product-1200x1800-bg {
+  background-image: url(../img/breadcrumb/1200x1800_1.png);
+}
+
+.breadcrumb-bg.product-1200x2400-bg {
+  background-image: url(../img/breadcrumb/1200x2400_1.png);
+}
+
+.breadcrumb-bg.product-1200x2800-bg {
+  background-image: url(../img/breadcrumb/1200x2800_1.png);
+}
+.breadcrumb-bg.product-1600x3200-bg {
+  background-image: url(../img/breadcrumb/1600x3200_1.png);
+}
+
 
 .breadcrumb-bg {
   background-image: url(../img/breadcrumb/common-bg.html);
@@ -5466,6 +5517,10 @@ p.counter-number span.operator {
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-top: 15px;
+}
+.breadcrumb-title p {
+  font-size: 18px;
+  color: #ffffffa2;
 }
 
 .breadcrumb-bg.white-bg {
