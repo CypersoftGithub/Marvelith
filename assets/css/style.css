@@ -1,12 +1,4 @@
 @charset "UTF-8";
-/*
-Template Name: Marvelith
-Template URI: 
-Description:  
-Author: Capricorn Studio
-Author URI: 
-Version: 1.0
- */
 /*-- TABLE OF CONTENTS 
 -----------------------
 
@@ -4278,7 +4270,7 @@ button.mfp-arrow {
 
 /* 24. Video Section  */
 .video-section {
-  background-image: url(../img/video-bg.jpg);
+  background-image: url(../img/about/video-bg.png);
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -5379,44 +5371,37 @@ p.counter-number span.operator {
 /* 32. Breadcrumb 
 -----------------*/
 .breadcrumb-bg {
-  background-image: url(../img/breadcrumb/service-bg.jpg);
+  /* background-image: url(../img/breadcrumb/common-bg.html); */
 }
 
 .breadcrumb-bg.about-bg {
-  background-image: url(../img/breadcrumb/about-bg.png);
+  background-image: url(../img/breadcrumb/about.png);
 }
 
-.breadcrumb-bg.service-bg {
-  background-image: url(../img/breadcrumb/service-bg.jpg);
+.breadcrumb-bg.catalogue-bg {
+  background-image: url(../img/breadcrumb/catalogue.png);
 }
 
-.breadcrumb-bg.team-bg {
-  background-image: url(../img/breadcrumb/team-bg.jpg);
+.breadcrumb-bg.export-bg {
+  background-image: url(../img/breadcrumb/export.jfif);
 }
 
-.breadcrumb-bg.price-bg {
-  background-image: url(../img/breadcrumb/price-bg.jpg);
+.breadcrumb-bg.PackingDetails-bg {
+  background-image: url(../img/breadcrumb/PackingDetails.png);
 }
 
-.breadcrumb-bg.testimonial-bg {
-  background-image: url(../img/breadcrumb/testimonial-bg.jpg);
+.breadcrumb-bg.product-bg {
+  background-image: url(../img/breadcrumb/product.png);
 }
 
-.breadcrumb-bg.process-bg {
-  background-image: url(../img/breadcrumb/process-bg.jpg);
+.breadcrumb-bg.Technical-Specifications-bg {
+  background-image: url(../img/breadcrumb/Technical-Specifications.png);
 }
 
-.breadcrumb-bg.project-bg {
-  background-image: url(../img/breadcrumb/project-bg.jpg);
+.breadcrumb-bg.Tiles-calculate-bg {
+  background-image: url(../img/breadcrumb/Tiles-calculate.png);
 }
 
-.breadcrumb-bg.blog-bg {
-  background-image: url(../img/breadcrumb/blog-bg.jpg);
-}
-
-.breadcrumb-bg.contact-bg {
-  background-image: url(../img/breadcrumb/contact-bg.jpg);
-}
 
 .breadcrumb-bg {
   background-image: url(../img/breadcrumb/common-bg.html);

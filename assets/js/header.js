@@ -24,24 +24,24 @@ function renderHeader() {
 
             <li class="dropdown"><a href="#">Porcelain Tiles</a>
                 <ul class="sub-menu">
-                    <li><a href="30x60.html">30x60</a></li>
-                    <li><a href="60x60.html">60x60</a></li>
-                    <li><a href="60x120.html">60x120</a></li>
-                    <li><a href="80x160.html">80x160</a></li>
-                    <li><a href="100x100.html">100x100</a></li>
-                    <li><a href="120x120.html">120x120</a></li>
+                <li><a href="products-600x600.html">600x600</a></li>
+                <li><a href="products-600x1200.html">600x1200</a></li>
+                <li><a href="products-800x1600.html">800x1600</a></li>
+                    <li><a href="products-300x300.html">300x300</a></li>
+                    <li><a href="products-1000x1000.html">1000x1000</a></li>
+                    <li><a href="products-1200x1200.html">1200x1200</a></li>
                 </ul>
             </li>
 
             <li class="dropdown"><a href="#">Porcelain Slabs</a>
                 <ul class="sub-menu">
-                    <li><a href="800x2400.html">800x2400</a></li>
-                    <li><a href="800x3200.html">800x3200</a></li>
-                    <li><a href="1200x2400.html">1200x2400</a></li>
-                    <li><a href="1200x1800.html">1200x1800</a></li>
-                    <li><a href="1200x2800.html">1200x2800</a></li>
-                    <li><a href="1200x2600.html">1200x2600</a></li>
-                    <li><a href="800x3000.html">800x3000</a></li>
+                    <li><a href="products-800x2400.html">800x2400</a></li>
+                    <li><a href="products-800x3000.html">800x3000</a></li>
+                    <li><a href="products-800x3200.html">800x3200</a></li>
+                    <li><a href="products-1200x1800.html">1200x1800</a></li>
+                    <li><a href="products-1200x2400.html">1200x2400</a></li>
+                    <li><a href="products-1200x2800.html">1200x2800</a></li>
+                    <li><a href="products-1600x3200.html">1600x3200</a></li>
                 </ul>
             </li>
 
@@ -57,7 +57,6 @@ function renderHeader() {
     </li>
 
     <li><a class="navlink" href="Export.html">Export</a></li>
-    <li><a class="navlink" href="catalogue.html">Catalogue</a></li>
     <li><a class="navlink" href="contact.html">Contact</a></li>
 </ul>
 
@@ -130,7 +129,7 @@ function renderHeader() {
                                     </nav>
                                     <div class="action-bar">
                                         <a href="mailto:info@Marvelith.com"><i class="las la-envelope"></i>info@Marvelith.com</a>
-                                        <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
+                                        <a href="tel:7575090963"><i class="fal fa-phone"></i>+91 7575090963</a>
                                         <a href="contact.html" class="theme-btn">Contact Us</a>
                                     </div>
                                 </div>
@@ -156,7 +155,8 @@ function renderHeader() {
         </div>
         <div class="side-info">
             <div class="contact-list mb-40">                
-                <p>Welcome to Marvelith, a full service architecture and interior design firm.</p>
+                <p>Welcome to Marvelith Surfaces, a leading manufacturer and global exporter of premium ceramic and porcelain tiles.</p>
+
                 <img src="assets/img/offcanvas-img.jpg" alt="">
 
                 <div class="mt-30 mb-30">
@@ -164,10 +164,8 @@ function renderHeader() {
                 </div>
             </div>
             <div class="social-area-wrap">
-                <a href="#"><i class="lab la-facebook-f"></i></a>                                    
-                <a href="#"><i class="lab la-instagram"></i></a>
-                <a href="#"><i class="lab la-linkedin-in"></i></a>
-                <a href="#"><i class="lab la-skype"></i></a>                
+                <a href="https://www.facebook.com/share/17aEz8Feqo/"><i class="lab la-facebook-f"></i></a>                                    
+                <a href="https://www.instagram.com/marvelithsurfaces?igsh=MXA0bHNteGE0MDQxdQ=="><i class="lab la-instagram"></i></a>
             </div>
         </div>
     </div>

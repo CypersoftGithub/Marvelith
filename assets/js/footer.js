@@ -37,7 +37,6 @@ function renderFooter() {
                                 <a href="index.html">Home</a>
                                 <a href="about.html">About</a>
                                 <a href="export.html">Export</a>
-                                <a href="catalogue.html">Catalogue</a>
                                 <a href="contact.html">Contact Us</a>                                                    
                             </li>
                         </ul>
@@ -63,11 +62,8 @@ function renderFooter() {
     <div class="footer-bottom">
         <div class="container">
             <div class="row justify-content-center align-items-center justify-content-center">
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p class="copyright-line">© 2025 Marvelith. All rights reserved.</p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-xs-12 text-md-end">
-                    <p class="privacy">Privacy Policy | Terms &amp; Conditions</p>
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <p class="copyright-line">© 2026 Marvelith. All rights reserved by <a target="_blank" href="https://www.cypersoft.com/">Cypersoft</a></p>
                 </div>
             </div>
         </div>
