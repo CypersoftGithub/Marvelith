@@ -91,23 +91,20 @@ function renderHeader() {
                                                 <ul class="sub-menu">
                                                     <li><a class="has-arrow" href="#">Porcelain Tiles</a>
                                                         <ul class="sub-menu">
-                                                             <li><a href="30x60.html">30x60</a></li>
-                                                            <li><a href="60x60.html">60x60</a></li>
-                                                            <li><a href="60x120.html">60x120</a></li>
-                                                            <li><a href="80x160.html">80x160</a></li>
-                                                            <li><a href="100x100.html">100x100</a></li>
-                                                            <li><a href="120x120.html">120x120</a></li>
+                                                            <li><a href="products-600x600.html">600x600</a></li>
+                                                            <li><a href="products-600x1200.html">600x1200</a></li>
+                                                            <li><a href="products-800x1600.html">800x1600</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a class="has-arrow" href="#">Porcelain Slabs</a>
                                                         <ul class="sub-menu">
-                                                           <li><a href="800x2400.html">800x2400</a></li>
-                                                            <li><a href="800x3200.html">800x3200</a></li>
-                                                            <li><a href="1200x2400.html">1200x2400</a></li>
-                                                            <li><a href="1200x1800.html">1200x1800</a></li>
-                                                            <li><a href="1200x2800.html">1200x2800</a></li>
-                                                            <li><a href="1200x2600.html">1200x2600</a></li>
-                                                            <li><a href="800x3000.html">800x3000</a></li>
+                                                            <li><a href="products-800x2400.html">800x2400</a></li>
+                                                            <li><a href="products-800x3000.html">800x3000</a></li>
+                                                            <li><a href="products-800x3200.html">800x3200</a></li>
+                                                            <li><a href="products-1200x1800.html">1200x1800</a></li>
+                                                            <li><a href="products-1200x2400.html">1200x2400</a></li>
+                                                            <li><a href="products-1200x2800.html">1200x2800</a></li>
+                                                            <li><a href="products-1600x3200.html">1600x3200</a></li>
                                                         </ul>
                                                     </li>
                                                 </ul>
@@ -120,7 +117,6 @@ function renderHeader() {
                                                 </ul>
                                             </li>
                                             <li><a href="Export.html">Export</a></li>
-                                            <li><a href="catalogue.html">Catalogue</a></li>
                                             <li><a href="contact.html">Contact</a></li>
                                         </ul>
                                     </nav>
