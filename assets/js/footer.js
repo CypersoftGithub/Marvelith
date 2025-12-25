@@ -15,17 +15,17 @@ function renderFooter() {
                     <div class="col-lg-3 col-md-6">
                         <h5>Address</h5>
                         <p>
-                            OPP. SIPOK CERA, Bela <br>
-                            Rangpar Road, ONCAT, Bela, <br>
-                            Ta. Dis. Morbi – 363642, <br>
+                            Opp. Sipok Cera, <br>
+                            Bela Rangpar, Morbi,<br>
                             Gujarat, India
+
                         </p>
                         <div class="company-email">
-                            <p>Email</p>
-                            <a href="mailto:info@marvelithsurfaces.com">info@marvelithsurfaces.com</a>
+                            <h5>Email</h5>
+                           <p> <a href="mailto:info@marvelithsurfaces.com">info@marvelithsurfaces.com</a></p>
                         </div>
                         <div class="phone-number">
-                             <p>Phone</p>
+                             <h5>Phone</h5>
                             <a href="tel:7575090963">+91 75750 90963</a>
                         </div>
 

@@ -4001,6 +4001,12 @@ button.mfp-arrow {
   margin-bottom: 20px;
 }
 
+@media (max-width: 450px) {
+  .project-details h2 {
+  font-size: 20px;
+}
+}
+
 .project-info h6 {
   font-size: 20px;
   text-transform: uppercase;
@@ -5060,6 +5066,7 @@ p.counter-number span.operator {
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 2;
 }
 .cta-img-area h2 {
   font-size: 65px;
@@ -5465,6 +5472,9 @@ p.counter-number span.operator {
   align-items: center;
   position: relative;
   z-index: 1;
+}
+.breadcrumb-bg .overlay-3 {
+  opacity: 0.5;
 }
 .breadcrumb-bg .breadcrumb-title {
   position: relative;

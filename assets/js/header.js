@@ -121,7 +121,7 @@ function renderHeader() {
                                         </ul>
                                     </nav>
                                     <div class="action-bar">
-                                        <a href="mailto:info@Marvelith.com"><i class="las la-envelope"></i>info@Marvelith.com</a>
+                                        <a href="mailto:info@marvelithsurfaces.com"><i class="las la-envelope"></i>info@marvelithsurfaces.com</a>
                                         <a href="tel:7575090963"><i class="fal fa-phone"></i>+91 7575090963</a>
                                         <a href="contact.html" class="theme-btn">Contact Us</a>
                                     </div>
