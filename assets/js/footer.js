@@ -22,11 +22,11 @@ function renderFooter() {
                         </p>
                         <div class="company-email">
                             <h5>Email</h5>
-                           <p> <a href="mailto:info@marvelithsurfaces.com">info@marvelithsurfaces.com</a></p>
+                           <p> <a style="color: #868686; font-size: 16px; text-decoration: none;" href="mailto:info@marvelithsurfaces.com">info@marvelithsurfaces.com</a></p>
                         </div>
                         <div class="phone-number">
                              <h5>Phone</h5>
-                            <a href="tel:7575090963">+91 75750 90963</a>
+                            <a style="color: #868686; font-size: 16px;" href="tel:7575090963">+91 75750 90963</a>
                         </div>
 
                     </div>
