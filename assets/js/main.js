@@ -379,7 +379,7 @@
     var odo = $(".odometer");
     odo.each(function () {
       var countNumber = $(this).attr("data-count");
-      $(this).html(countNumber);
+      $(this)(countNumber);
     });
   });
 
@@ -554,7 +554,7 @@
         $("#sqFeet").val("");
         $("#totalTiles").val("");
         $("#totalBoxes").val("");
-        $("#diagramGrid").html("");
+        $("#diagramGrid")("");
         return;
       }
 
@@ -591,7 +591,7 @@
     // Function to update diagram
     function updateDiagram(length, width, tileSize) {
       const grid = $("#diagramGrid");
-      grid.html("");
+      grid("");
 
       // Calculate approximate grid dimensions
       const tileWidthFt = (tileSize.width / 1000) * METER_TO_FEET;

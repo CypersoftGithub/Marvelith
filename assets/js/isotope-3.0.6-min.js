@@ -252,7 +252,7 @@ function (t, e) {
         }).toLowerCase()
     };
     var n = t.console;
-    return i.htmlInit = function (e, o) {
+    return iInit = function (e, o) {
         i.docReady(function () {
             var s = i.toDashed(o),
                 r = "data-" + s,
@@ -777,7 +777,7 @@ function (t, e) {
         return e && f[e]
     }, s.create = function (t, e) {
         var i = r(s);
-        return i.defaults = o.extend({}, s.defaults), o.extend(i.defaults, e), i.compatOptions = o.extend({}, s.compatOptions), i.namespace = t, i.data = s.data, i.Item = r(n), o.htmlInit(i, t), h && h.bridget && h.bridget(t, i), i
+        return i.defaults = o.extend({}, s.defaults), o.extend(i.defaults, e), i.compatOptions = o.extend({}, s.compatOptions), i.namespace = t, i.data = s.data, i.Item = r(n), oInit(i, t), h && h.bridget && h.bridget(t, i), i
     };
     var m = {
         ms: 1,

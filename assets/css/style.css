@@ -2758,7 +2758,7 @@ input[type=search]::-webkit-search-results-decoration {
 
 /* 18. Hero Area  */
 #home-2 .single-slide-item {
-  background-image: url(../img/slider/slide-1.html);
+  background-image: url(../img/slider/slide-1);
   background-size: cover;
   background-position: center;
   background-color: #ddd;
@@ -5378,7 +5378,7 @@ p.counter-number span.operator {
 /* 32. Breadcrumb 
 -----------------*/
 .breadcrumb-bg {
-  /* background-image: url(../img/breadcrumb/common-bg.html); */
+  /* background-image: url(../img/breadcrumb/common-bg); */
 }
 
 .breadcrumb-bg.about-bg {
@@ -5462,7 +5462,7 @@ p.counter-number span.operator {
 
 
 .breadcrumb-bg {
-  background-image: url(../img/breadcrumb/common-bg.html);
+  background-image: url(../img/breadcrumb/common-bg);
   height: 480px;
   background-size: cover;
   background-position: center bottom;

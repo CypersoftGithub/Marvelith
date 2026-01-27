@@ -7,7 +7,7 @@ function renderFooter() {
             <div class="footer-up">
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">                        
-                        <a href="index.html" class="logo"><img src="assets/img/logo/logo-white.png" alt=""></a>                                                                                                
+                        <a href="index" class="logo"><img src="assets/img/logo/logo-white.png" alt=""></a>                                                                                                
                         <p>Marvelith Surfaces is a premium tiles brand delivering quality,
                             innovation, and elegant surface solutions for modern spaces.
                         </p>
@@ -34,10 +34,10 @@ function renderFooter() {
                         <h5>Links</h5>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
-                                <a href="about.html">About</a>
-                                <a href="export.html">Export</a>
-                                <a href="contact.html">Contact Us</a>                                                    
+                                <a href="index">Home</a>
+                                <a href="about">About</a>
+                                <a href="export">Export</a>
+                                <a href="contact">Contact Us</a>                                                    
                             </li>
                         </ul>
                     </div>

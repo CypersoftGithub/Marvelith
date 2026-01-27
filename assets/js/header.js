@@ -9,53 +9,38 @@ function renderHeader() {
                     <div class="row align-items-center">                        
                         <div class="col-xl-4 col-lg-3 col-6">        
                             <div class="logo">                                
-                                <a href="index.html" class="logo"><img src="assets/img/logo/logo-white.png" alt=""></a>                                                                                           
+                                <a href="index" class="logo"><img src="assets/img/logo/logo-white.png" alt=""></a>                                                                                           
                             </div>
                             
                         </div>
                         <div class="col-xl-7 col-lg-6 d-none d-lg-block text-lg-end">
                             <div class="main-menu">
-                               <ul class="navigation clearfix">
-    <li><a class="navlink" href="index.html">Home</a></li>
-    <li><a class="navlink" href="about.html">About</a></li>
+                             <ul class="navigation clearfix">
+    <li><a class="navlink" href="index">Home</a></li>
+    <li><a class="navlink" href="about">About</a></li>
 
-    <li class="dropdown"><a class="navlink" href="#">Product</a>
+    <li class="dropdown">
+        <a class="navlink" href="#">Product</a>
         <ul class="sub-menu">
-
-            <li class="dropdown"><a href="#">Porcelain Tiles</a>
-                <ul class="sub-menu">
-                <li><a href="products-600x600.html">600x600</a></li>
-                <li><a href="products-600x1200.html">600x1200</a></li>
-                <li><a href="products-800x1600.html">800x1600</a></li>
-                </ul>
-            </li>
-
-            <li class="dropdown"><a href="#">Porcelain Slabs</a>
-                <ul class="sub-menu">
-                    <li><a href="products-800x2400.html">800x2400</a></li>
-                    <li><a href="products-800x3000.html">800x3000</a></li>
-                    <li><a href="products-800x3200.html">800x3200</a></li>
-                    <li><a href="products-1200x1800.html">1200x1800</a></li>
-                    <li><a href="products-1200x2400.html">1200x2400</a></li>
-                    <li><a href="products-1200x2800.html">1200x2800</a></li>
-                    <li><a href="products-1600x3200.html">1600x3200</a></li>
-                </ul>
-            </li>
-
+            <li><a href="products-600x600">600×600</a></li>
+            <li><a href="products-600x1200">600×1200</a></li>
+            <li><a href="products-800x1600">800×1600</a></li>
         </ul>
     </li>
 
-    <li class="dropdown"><a class="navlink" href="#">Utilities</a>
+    <li class="dropdown">
+        <a class="navlink" href="#">Utilities</a>
         <ul class="sub-menu">
-            <li><a href="Tiles-calculate.html">Tiles Calculate</a></li>
-            <li><a href="PackingDetails.html">Packing Details</a></li>
-            <li><a href="Technical-Specifications.html">Technical Specifications</a></li>
+            <li><a href="Tiles-calculate">Tiles Calculate</a></li>
+            <li><a href="PackingDetails">Packing Details</a></li>
+            <li><a href="Technical-Specifications">Technical Specifications</a></li>
         </ul>
     </li>
 
-    <li><a class="navlink" href="Export.html">Export</a></li>
-    <li><a class="navlink" href="contact.html">Contact</a></li>
+    <li><a class="navlink" href="Export">Export</a></li>
+    <li><a class="navlink" href="contact">Contact</a></li>
 </ul>
+
 
                             </div>
                         </div>
@@ -85,45 +70,36 @@ function renderHeader() {
                                     </button>
                                     <nav class="sidebar-nav">
                                         <ul class="metismenu" id="mobile-menu">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a class="has-arrow" href="#">Product</a>
-                                                <ul class="sub-menu">
-                                                    <li><a class="has-arrow" href="#">Porcelain Tiles</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="products-600x600.html">600x600</a></li>
-                                                            <li><a href="products-600x1200.html">600x1200</a></li>
-                                                            <li><a href="products-800x1600.html">800x1600</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a class="has-arrow" href="#">Porcelain Slabs</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="products-800x2400.html">800x2400</a></li>
-                                                            <li><a href="products-800x3000.html">800x3000</a></li>
-                                                            <li><a href="products-800x3200.html">800x3200</a></li>
-                                                            <li><a href="products-1200x1800.html">1200x1800</a></li>
-                                                            <li><a href="products-1200x2400.html">1200x2400</a></li>
-                                                            <li><a href="products-1200x2800.html">1200x2800</a></li>
-                                                            <li><a href="products-1600x3200.html">1600x3200</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li><a class="has-arrow" href="#">Utilities</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="Tiles-calculate.html">Tiles Calculate</a></li>
-                                                    <li><a href="Packing-Details.html">Packing Details</a></li>
-                                                    <li><a href="Technical-Specifications.html">Technical Specifications</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="Export.html">Export</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                        </ul>
+    <li><a href="index">Home</a></li>
+    <li><a href="about">About</a></li>
+
+    <li>
+        <a class="has-arrow" href="#">Product</a>
+        <ul class="sub-menu">
+            <li><a href="products-600x600">600x600</a></li>
+            <li><a href="products-600x1200">600x1200</a></li>
+            <li><a href="products-800x1600">800x1600</a></li>
+        </ul>
+    </li>
+
+    <li>
+        <a class="has-arrow" href="#">Utilities</a>
+        <ul class="sub-menu">
+            <li><a href="Tiles-calculate">Tiles Calculate</a></li>
+            <li><a href="Packing-Details">Packing Details</a></li>
+            <li><a href="Technical-Specifications">Technical Specifications</a></li>
+        </ul>
+    </li>
+
+    <li><a href="Export">Export</a></li>
+    <li><a href="contact">Contact</a></li>
+</ul>
+
                                     </nav>
                                     <div class="action-bar">
                                         <a href="mailto:info@marvelithsurfaces.com"><i class="las la-envelope"></i>info@marvelithsurfaces.com</a>
                                         <a href="tel:7575090963"><i class="fal fa-phone"></i>+91 7575090963</a>
-                                        <a href="contact.html" class="theme-btn">Contact Us</a>
+                                        <a href="contact" class="theme-btn">Contact Us</a>
                                     </div>
                                 </div>
                             </div>                            
@@ -143,7 +119,7 @@ function renderHeader() {
         </div>
         <div class="logo-side">
             <div class="logo">
-                <a href="index.html" class="logo"><img src="assets/img/logo/logo-white.png" alt=""></a>                                                
+                <a href="index" class="logo"><img src="assets/img/logo/logo-white.png" alt=""></a>                                                
             </div>
         </div>
         <div class="side-info">
@@ -153,7 +129,7 @@ function renderHeader() {
                 <img src="assets/img/offcanvas-img.jpg" alt="">
 
                 <div class="mt-30 mb-30">
-                    <a href="contact.html" class="white-btn">Get In Touch</a>
+                    <a href="contact" class="white-btn">Get In Touch</a>
                 </div>
             </div>
             <div class="social-area-wrap">
